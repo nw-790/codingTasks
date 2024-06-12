@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #141414;
+  }
+  
+  .header__logo {
+    width: 100px;
+  }
+  
+  .header__button {
+    background-color: #e50914;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 3px;
+  }

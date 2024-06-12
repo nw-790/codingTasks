@@ -1,0 +1,25 @@
+.banner {
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+  }
+  
+  .banner__title {
+    font-size: 3em;
+  }
+  
+  .banner__subtitle {
+    font-size: 1.5em;
+    margin: 20px 0;
+  }
+  
+  .banner__button {
+    background-color: #e50914;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 3px;
+  }
